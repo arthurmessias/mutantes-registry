@@ -23,5 +23,8 @@ No aplica
 mvn spring-boot:run
 ```
 
-## Eureka Home
-http://localhost:8761
+## Endpoints
+Eureka home
+
+* Local endpoint: http://localhost:8761
+* Heroku endpoint: https://mutantes-registry.herokuapp.com
